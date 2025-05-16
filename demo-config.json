@@ -1,8 +1,8 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/8wwnfNtzJbvZFQ9R7gHLd8/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/8wwnfNtzJbvZFQ9R7gHLd8/cs-graphql",
+      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
+      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
       "headers": {
         "all": {
           "Store": "default"
@@ -21,7 +21,7 @@
         "environment": "Production",
         "store-id": 1,
         "store-name": "Main Website Store",
-        "store-url": "https://na1-sandbox.api.commerce.adobe.com/8wwnfNtzJbvZFQ9R7gHLd8/",
+        "store-url": "https://www.aemshop.net",
         "store-view-id": 1,
         "store-view-name": "Default Store View",
         "website-id": 1,
